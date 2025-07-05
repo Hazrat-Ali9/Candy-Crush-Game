@@ -3,7 +3,7 @@ var board = [];
 var rows = 9;
 var columns = 9;
 var score = 0;
-
+// script js
 var currTile;
 var otherTile;
 
