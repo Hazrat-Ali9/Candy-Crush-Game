@@ -1,4 +1,8 @@
- # 🍬Candy Crush 🍭
+# 🚅 Hazrat Ali
+
+# 🚃 Programmer || Software Engineering 
+ 
+# 🍬Candy Crush 🍭
 
 🎉Welcome to my Candy Crush clone! 🎉 This project recreates the popular match-3 puzzle game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript. 🍬
 
